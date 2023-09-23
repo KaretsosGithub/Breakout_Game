@@ -25,7 +25,7 @@ Screenshots
 
 How to play?
 ===========
-- On *Ubuntu 20.04*: Assuming that you have cloned this repository and you are inside the folder that contains the files of project, open a terminal:
+- On *Ubuntu 20.04*: Assuming that you have cloned this repository and you are inside the folder that contains the files of the project, open a terminal:
 
 ``` sh
 qmake
